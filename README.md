@@ -13,7 +13,7 @@
 
 ```yaml
 name: Adrian Perce
-alias: xKobeni
+username: xKobeni
 focus: Web Development / Game Development / AI-ML
 learning_path: AI/ML + MERN Stack
 passion: idk...
